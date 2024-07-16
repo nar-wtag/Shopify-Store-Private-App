@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\candle-store-backend-app.props" />
+</Project>
