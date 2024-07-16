@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("candle-store-backend-app")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e2e0ccf066dd512cb51fefc20112f3cfbbd2224")]
 [assembly: System.Reflection.AssemblyProductAttribute("candle-store-backend-app")]
 [assembly: System.Reflection.AssemblyTitleAttribute("candle-store-backend-app")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
